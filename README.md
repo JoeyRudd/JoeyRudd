@@ -1,2 +1,1 @@
-# ai-fitness-coach
 # JoeyRudd
