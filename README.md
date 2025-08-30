@@ -1,4 +1,3 @@
-# JoeyRudd
 # Joey Rudd
 
 Honours Bachelor of Computer Science student at York University (Expected May 2027)  
