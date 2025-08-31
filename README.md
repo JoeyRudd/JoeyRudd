@@ -36,4 +36,4 @@ Currently learning Go, Rust, and full-stack web development.
 - Email: [emailjoeyrudd@gmail.com](mailto:emailjoeyrudd@gmail.com)  
 - Phone: 289-772-8081  
 - GitHub: [github.com/JoeyRudd](https://github.com/JoeyRudd)  
-- LinkedIn: [linkedin.com/in/joeyrudd](https://linkedin.com/in/joeyrudd)  
+- LinkedIn: [linkedin.com/in/joeyrudd](https://www.linkedin.com/in/joey-rudd-21764b250/)  
