@@ -9,7 +9,7 @@ Currently learning Go, Rust, and full-stack web development.
 ## Skills
 - **Languages:** Java, Python, JavaScript, Go, Rust, C, RISC-V Assembly  
 - **Frameworks & Libraries:** FastAPI, Vue.js, TailwindCSS, SQLite  
-- **Tools:** Git, VS Code, JetBrains IDEs, Unix, GitHub Copilot  
+- **Tools:** Git, VS Code, JetBrains IDEs, Unix, GitHub Copilot, Github Actions
 
 ---
 
