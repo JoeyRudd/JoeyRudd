@@ -13,15 +13,16 @@ Interested in fullstack development and AI applications.
 ---
 
 ## Projects
+
+### AI Fitness Coaching App (hypertrofit)
+- Full-stack web app built with Vue 3 and FastAPI for personalized nutrition and hypertrophy coaching.  
+- Implemented a Retrieval-Augmented Generation pipeline with scikit-learn and Gemini to improve AI accuracy.  
+- Deployed with frontend on Netlify and backend on Railway.  
+
 ### Adventures of Croak (Godot 2D Platformer)
 - Developed a 2D platformer in Godot with custom movement mechanics such as wall-jump, slide, and double jump.  
 - Implemented enemy AI, collectibles, HUD, menus, and particle effects.  
 - Designed and playtested levels for balanced difficulty and accessibility.  
-
-### AI Fitness Coaching App
-- Full-stack web app built with Vue 3 and FastAPI for personalized nutrition and hypertrophy coaching.  
-- Implemented a Retrieval-Augmented Generation pipeline with scikit-learn and Gemini to improve AI accuracy.  
-- Deployed with frontend on Netlify and backend on Railway.  
 
 ---
 
