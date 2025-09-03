@@ -1,8 +1,7 @@
 # Joey Rudd
 
 Honours Bachelor of Computer Science student at York University (Expected May 2027)  
-Interested in software development, game design, and AI applications.  
-Currently learning Go, Rust, and full-stack web development.
+Interested in fullstack development and AI applications.  
 
 ---
 
