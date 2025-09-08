@@ -13,7 +13,7 @@ Interested in fullstack development and AI applications.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white)
 ![RISC--V](https://img.shields.io/badge/RISC--V-3A75BD?style=for-the-badge&logo=riscv&logoColor=white)
 
 ### Frameworks & Libraries
